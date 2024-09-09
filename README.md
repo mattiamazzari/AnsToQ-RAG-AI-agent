@@ -1,4 +1,4 @@
-# E-commerce FAQ Chatbot System
+# FaqSense: E-commerce FAQ Chatbot System
 
 ## Overview
 
